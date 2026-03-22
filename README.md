@@ -57,11 +57,16 @@ Trained multiple machine learning models:
 - Google Colab
 
 ## 📂 Files Included
-- `train_LZdllcl.csv`
-- `test_2umaH9m.csv`
-- `sample_submission_M0L0uXE.csv`
-- `final_submission.csv`
-- `model_code.ipynb` / `app.py`
+Comparison.png
+Intermediate_assessment.pdf
+README.md
+final submission.csv
+model_code.ipynb
+submission_dt.csv
+submission_lr.csv
+submission_rf.csv
+test.csv
+train.csv
 
 ---
 
