@@ -57,16 +57,17 @@ Trained multiple machine learning models:
 - Google Colab
 
 ## 📂 Files Included
-Comparison.png
-Intermediate_assessment.pdf
-README.md
-final submission.csv
-model_code.ipynb
-submission_dt.csv
-submission_lr.csv
-submission_rf.csv
-test.csv
-train.csv
+
+- `train.csv` – Training dataset used for model building  
+- `test.csv` – Test dataset used for generating predictions  
+- `final_submission.csv` – Final submission file with best model predictions  
+- `submission_rf.csv` – Predictions using Random Forest  
+- `submission_dt.csv` – Predictions using Decision Tree  
+- `submission_lr.csv` – Predictions using Logistic Regression  
+- `model_code.ipynb` – Complete implementation of the project  
+- `Comparison.png` – Screenshot showing model performance comparison  
+- `Intermediate_assessment.pdf` – Problem statement and guidelines  
+- `README.md` – Project documentation  
 
 ---
 
